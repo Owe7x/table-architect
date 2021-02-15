@@ -1,0 +1,19 @@
+{
+  "dialogAreYouSure": {
+    "areYouSure": "Are you sure?",
+    "no": "No",
+    "yes": "Yes"
+  },
+  "login": {
+    "cantRestorePassword": "Unable to recover password, user does not exist.",
+    "email": "mail",
+    "forgot": "Forgot your password?",
+    "login": "Login with email",
+    "loginWithFacebook": "Login with Facebook",
+    "loginWithGoogle": "Login with Google",
+    "password": "Password",
+    "registration": "registration",
+    "registrationFailed": "Registration was not successful. The user already exists.",
+    "restore": "Reestablish"
+  }
+}
